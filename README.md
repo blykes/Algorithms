@@ -1,3 +1,3 @@
 # Algorithms
 
-Analisys of Algorithyms
+Analisys of various algorithyms
